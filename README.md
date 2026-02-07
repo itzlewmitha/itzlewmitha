@@ -81,7 +81,9 @@ A productivity & income system for photographers
 - Photographer & media creator  
 - School prefect with digital leadership experience  
 - Member of Leo Club & Astronomical Society  
-- Focused on blending creativity with structured systems  
+- Focused on blending creativity with structured systems
+- Author
+- Annoucer 
 
 ---
 
@@ -97,5 +99,5 @@ You’ll probably like working with me.
 ---
 
 <p align="center">
-⚡ Building quietly. Scaling intentionally.
+⛅Even Clouds Can Change A Person ☁️ .
 </p>
