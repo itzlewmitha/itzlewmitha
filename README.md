@@ -19,8 +19,8 @@ I don’t just code projects. I build **systems**.
 ## 🚀 What I’m Building
 
 - **PIX Studios Sri Lanka** — Creative & web solutions company  
-- **PixWallet** — Photo licensing & income tracker for photographers  
-- **Mood Vibzz** — AI-powered emotion-based music experience  
+- **PixVerse** — Movie Website Without ADS
+- **Knight Board** — AI-powered Keyboard For Sri Lankans 
 - School-focused digital systems (library, automation, dashboards)
 
 ---
@@ -37,25 +37,6 @@ A complete digital library workflow built for schools
 
 ---
 
-### 🎧 Mood Vibzz  
-A web-based AI music platform that adapts to human emotion  
-- Real-time emotion detection via webcam  
-- Mood-based song recommendations  
-- Lyrics synced in real time from JSON data  
-- Dynamic UI based on detected mood  
-**Stack:** JavaScript, AI models, JSON, Web APIs
-
----
-
-### 📸 PixWallet  
-A productivity & income system for photographers  
-- Track licensed photos  
-- Monitor earnings  
-- Manage usage rights  
-- Built for creatives who want structure, not chaos  
-**Status:** Active development
-
----
 
 ## 📊 Impact
 
@@ -99,5 +80,5 @@ You’ll probably like working with me.
 ---
 
 <p align="center">
-⛅Even Clouds Can Change A Person ☁️ .
+⛅Even a Clouds Can Change A Person ☁️ 
 </p>
